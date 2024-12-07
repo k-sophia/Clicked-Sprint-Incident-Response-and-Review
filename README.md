@@ -8,6 +8,10 @@ As a security analyst, your task is to identify the nature of this alert, its po
 
 You will be working closely with Gemma Chan, CTO.
 
+You are given 2 data sets
+- Logs
+- IP addresses noted making a connection on or around the time of the unusual activity
+
 ## Learning Objectives
 - Master the steps of the NIST Incident Response Process Framework
 - Develop hands-on expertise in effectively responding to and mitigating security threats
@@ -15,7 +19,7 @@ You will be working closely with Gemma Chan, CTO.
 - Sharpen your communication skills to brief the target audience
 
 ## Content
-- **Logs:**
-- **Identification and Findings:** 
-- **Response, Containment and Eradication:**
-- **Post Incident Review:**
+- **Bulk IP Lookup Results:** Excel of locations of IPs noted during unusual activity
+- **Identification and Findings:** Documentation of findings from determining the scope and magnitude of the incident then categorizing its nature
+- **Response, Containment and Eradication:** Presentation of recommended containment plan that includes short-term and long-term implementations
+- **Post Incident Review:** Presentation of a post-incident review designed to refine procedures and prepare for potential future incidents
