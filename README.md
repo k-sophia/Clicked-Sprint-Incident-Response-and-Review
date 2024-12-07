@@ -1,5 +1,5 @@
 # Clicked-Sprint-Incident-Response-and-Review
-This is a Mini Sprint hosted by Clicked. 
+This is a Mini Sprint hosted by Clicked. The project content was a collaboration of 2 members.
 
 ## Scenario
 Maven Clinic, a file transfer platform, recently flagged some unusual network activity that has raised alarms. The senior management is taking this incident very seriously, given the medical data contained on the network.
@@ -8,7 +8,7 @@ As a security analyst, your task is to identify the nature of this alert, its po
 
 You will be working closely with Gemma Chan, CTO.
 
-You are given 2 data sets
+You are given 2 data sets:
 - Logs
 - IP addresses noted making a connection on or around the time of the unusual activity
 
